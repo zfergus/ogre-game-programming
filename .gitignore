@@ -276,3 +276,12 @@ __pycache__/
 # Cake - Uncomment if you are using it
 # tools/**
 # !tools/packages.config
+
+###############
+## Mine
+
+*.zip
+!OGRE_TEMPLATE.zip
+*.pdf
+!HW05_Boids/Flocking*
+HW06_Physics/CS42512-Physics
