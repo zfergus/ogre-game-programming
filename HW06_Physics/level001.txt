@@ -1,0 +1,44 @@
+31 31
+Examples/WaterStream
+
+Objects
+k knot.mesh 0.0 2.0 0.0   0.0 0.02
+d drum.mesh 0.0 5.5 0.0   0.0 0.10
+f fish.mesh 0.0 1.5 0.0 -90.0 0.80
+
+Characters
+s sinbad.mesh 0.0 15.0 0.0 3
+b sinbad.mesh 0.0  5.0 0.0 1
+
+World
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooedeoooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooofooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooo

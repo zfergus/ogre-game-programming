@@ -1,0 +1,58 @@
+50 40
+Examples/Rockwall
+
+Objects
+k knot.mesh       0.0  1.7  0.0  0.0 0.02
+d dragon.mesh    -5.0  6.0 -9.5  0.0 0.04
+t tudorhouse.mesh 0.0 27.0  0.0  0.0 0.05
+h tudorhouse.mesh 0.0 27.0  0.0 90.0 0.05
+b Barrel.mesh     0.0  3.5  0.0  0.0 1.0
+c column.mesh     0.0 11.0  0.0  0.0 0.1
+f fish.mesh       0.0  1.0  0.0  0.0 1.0
+p WoodPallet.mesh 0.0  1.0  0.0  0.0 1.0
+
+Characters
+s sinbad.mesh 0.0 15.0 0.0 3
+
+
+World
+oooooooooooooooooooooooooooooccccccccccccccccccccc
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+ooooooooooooooooopoooooooooooboooooooooooooooooooo
+oootoooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+ooooooooooofoooooooooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooooooooooooopoooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+ooooooooooooooooooooosoooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooopooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooofooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooofooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooooooooooohoooooooooo
+oooooooooooooboooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooowwwwowwwooooohoooooooooo
+oooooooooooooooooooooooooowoooooowoooooooooooooooo
+oooooooooooooooooooooooooowoooooowoooooooooooooooo
+oooooooooooooooooooooooooowootooowoooooooooooooooo
+ooooooosoooooooooooooooooowoooooowoooooooooooooooo
+oooooooooooooooooooooooooowoooooowoooooooooooooooo
+oooooooooooooooooooooooooowwwwwwwwoooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+ooobooooooooooooooooooooooooooooooooooooofoooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooosooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+ooooohooooooooooooooopoooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooobooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooobooooooooooooooooooooooooooooooooooo

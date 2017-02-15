@@ -1,0 +1,35 @@
+73 23
+Examples/WaterStream
+
+Objects
+d knot.mesh 0.0 2.0 0.0   0.0 0.02
+t tudorhouse.mesh 0.0 27.0 0.0 0.0 0.05
+
+Characters
+g robot.mesh 0.0 0.0 0.0 0.15
+p sinbad.mesh 0.0 5.0 0.0 1
+
+World
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+w...w...............w...............w...........w...................w...w
+w...w...wwwwwwwww...w...wwwww...wwwwwwwww...wwwww...wwwww...wwwww...w...w
+w.g.............w.......w...w...........w...................w.......w...w
+wwwwwwwww...w...wwwwwwwww...wwwwwwwww...wwwww...w...........wwwwwwwww...w
+w.......w...w...............w...........w...w...w...w...w...........w...w
+w...w...wwwwwwwwwwwww...w...w...wwwwwwwww...wwwww...w...wwwwwwwww...w...w
+w...w...............w...w...w...g...w...........w...........w.......w...w
+w...wwwwwwwwwwwww...wwwww...........w...wwwww...wwwwwwwww...w...wwwww...w
+w...........w.......w...w...........w.......w...........w...w...........w
+w...wwwww...wwwww...w...www.....t.......wwwww...w...w...w...wwwwwwwwwwwww
+w.......w.......w...w...w...............w.......w...w...w.......w.......w
+wwwwwwwwwwwww...w...w...w...............w...wwwww...w...wwwww...wwwww...w
+w...........w...w...........w.......w...w.......w...w.......w...........w
+w...wwwww...w...wwwwwwwww...wwwww...w...wwwww...w...w...wwwwwwwwwwwww...w
+w...w.......w...........w...........w.......w.d.w...w...............w...w
+w...w...wwwwwwwww...w...wwwww...wwwwwwwww...w...w...wwwwwwwwwwwww...w...w
+w...w...........w...w...w...w...w...........w...............w...w.......w
+w...wwwwwwwww...w...w...w...wwwww...wwwwwwwww...wwwwwwwww...w...wwwwwwwww
+w...w.......w...w...w...........w...........w...w.......w...............w
+w...w...wwwww...wwwww...wwwww...wwwwwwwww...........w...wwwwwwwww...w...w
+w...w...................w.....p.....w...............w...............w...w
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww

@@ -1,0 +1,30 @@
+x z
+Examples/WaterStream
+
+Objects
+# filename.mesh x_offset y_offset z_offset orient scale
+
+Characters
+# filename.mesh x_offset y_offset z_offset scale
+
+World
+kooooosodoooook
+ooooooooooooooo
+ooooooboooooooo
+ooooooooooooooo
+oooooooosoooooe
+ooooooooooooooo
+oootooooooooooo
+ooooooooooosooo
+owwwwwwoooooooo
+oooooowooosoooo
+oboooowoooooooo
+oooooowoooooooo
+oooooowoootoooo
+ooooooooooooooo
+ooooooooooooooo
+otooooooooooooo
+ooooooeoooooooo
+ooooooooooooooo
+ooooooooooooooo
+kooooooooooodod

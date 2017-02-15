@@ -1,0 +1,31 @@
+15 20
+Examples/WaterStream
+
+Objects
+k knot.mesh 1.7 0.0 0.02
+
+Characters
+
+
+World
+koooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+oooooo.oooooooo
+ooooooooooooooo
+

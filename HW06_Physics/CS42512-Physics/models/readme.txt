@@ -1,0 +1,1 @@
+These files would need to be moved to the proper directories under the Ogre directory.

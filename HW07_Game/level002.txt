@@ -1,0 +1,34 @@
+39 22
+Examples/WaterStream
+
+Objects
+d knot.mesh 0.0 2.0 0.0   0.0 0.02
+t tudorhouse.mesh 0.0 27.0 0.0 0.0 0.05
+
+Characters
+g robot.mesh 0.0 0.0 0.0 0.15
+p sinbad.mesh 0.0 5.0 0.0 1
+
+World
+wwwwwwwwwwwwwwwwww...wwwwwwwwwwwwwwwwww
+w..................t..................w
+w......g........................g.....w
+w.....................................w
+w.....................................w
+w.........w.................w.........w
+w.......w.........www........w........w
+w......w.........wwwww.........w......w
+w.....w....g...wwwwwwwww....g...w.....w
+w.....w.......wwwwwwwwwwww......w.....w
+w.....w......wwwwwwwwwwwww......w.....w
+w.w....w....wwwwwwwwwwwwwww....w....w.w
+w..w....w...wwwwwwwwwwwwwww...w....w..w
+w....w....w..wwwwwwwwwwwww..w....w....w
+w.w....ww...w.wwww.w.wwww.w...ww....w.w
+w..w......w....ww.www.ww....w......w..w
+w...w....w.....wwwwwwwww.....w....w...w
+w.....ww........w..d..w........ww.....w
+w.................www.................w
+w.....................................w
+w..................p..................w
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww

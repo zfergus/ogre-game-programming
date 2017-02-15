@@ -1,0 +1,20 @@
+10 10 
+Examples/WaterStream
+
+Objects
+d dragon.mesh -5.0 6.0 -9.5 0.0 0.04
+
+Characters
+s sinbad.mesh 0.0 10.0 0.0 2
+
+World
+wwwwwwwwww
+wooosoooow
+wowwwwwwow
+wowosoowow
+wowowwowow
+wowowwowow
+wowdooowow
+wowwwwwwow
+wooooooodw
+wwwwwwwwww

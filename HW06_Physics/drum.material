@@ -1,0 +1,17 @@
+
+material drumMaterial__2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.25 0 0 1
+			diffuse 1 0 0 1
+			specular 0 0 0 1 35.328
+		}
+
+	}
+
+}
+
+

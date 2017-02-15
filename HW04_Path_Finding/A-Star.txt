@@ -1,0 +1,37 @@
+openList <- Empty list of gridNodes (Used to store not yet explored nodes)
+closedList <- Empty list of gridNodes (Used to store fully explored nodes)
+
+# Each gridNode has two additional fields
+# 1. F = G + H, where G is the cost to get to the node via the current path and 
+#    H is the heuristic distance to the destination.
+# 2. A pointer to their parent node in the path.
+
+# G = parentNode's G-value + 10 if moving to the N, S, E, or W or 
+#     14 if moving diagonally to NE, NW, SE, SW.
+# H = Manhattan distance between the node and the destination.
+
+
+Given a starting node, add the starting node to the open list with an F = H and parent = NULL.
+currentNode = startingNode
+
+While the open list is not empty:
+	currentNode = from the open list get the node with the minimum F-value
+
+	If the currentNode is the destination:
+		break
+
+	For each of the currentNode's neighbors:
+		If the node is not blocked and not in closed:
+			If the node is not in the open list:
+				Add the node to the open list with a calculated F-value and a parent = currentNode.
+			Else:
+				Recalculate the F-value of the node via the currentNode. 
+				If this new G-value is less than the previous F-value:
+					Update the F-value of the node in the openList and set parent = currentNode.
+	
+	Add the currentNode to the closed list because it has been fully explored.
+
+# Upon termination of the loop currentNode = destination
+From the destination follow the parent pointer back to the starting node, creating a path from s to e.
+
+
